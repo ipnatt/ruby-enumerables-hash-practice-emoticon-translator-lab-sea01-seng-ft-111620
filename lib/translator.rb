@@ -13,7 +13,7 @@ def load_library(path_file)
     japanese => value[1]
     
     file_path[:get_meaning][japanese] = key
-    file_path[:get_emoticon][english] = 
+    file_path[:get_emoticon][english] = japanese
     
 
 def get_japanese_emoticon
