@@ -9,7 +9,7 @@ def load_library(path_file)
     english = value[0]
     japanese = value[1]
     emoticons_hash[:get_meaning][japanese] = meaning
-    emoticons_hash[:get_emoticon]
+    emoticons_hash[:get_emoticon][english] = 
   
  
 end
