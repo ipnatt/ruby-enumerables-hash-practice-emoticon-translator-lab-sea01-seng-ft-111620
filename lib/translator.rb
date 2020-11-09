@@ -10,6 +10,7 @@ def load_library(path_file)
   emoticons.each do |key, value|
     english => value[0]
     japanese => value[1]
+    
 
 def get_japanese_emoticon
   # code goes here
