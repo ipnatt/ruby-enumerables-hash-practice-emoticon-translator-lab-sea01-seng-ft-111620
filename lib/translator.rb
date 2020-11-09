@@ -23,6 +23,5 @@ end
 
 def get_english_meaning(path_file, emoticon)
   emoticons_hash = load_library(path_file)
-  english
   
 end
