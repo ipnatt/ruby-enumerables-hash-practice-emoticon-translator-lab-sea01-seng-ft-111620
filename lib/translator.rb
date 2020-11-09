@@ -12,7 +12,7 @@ def load_library(path_file)
     japanese => pair[1]
     english => pair[0]
     
-    file_path[:get_meaning][japanese] = key
+    file_path[:get_meaning][japanese] = word
     file_path[:get_emoticon][english] = japanese
   end
   file_path
