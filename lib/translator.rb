@@ -7,7 +7,8 @@ def load_library(path_file)
   file_path = {}
   file_path[:get_meaning] = {}
   file_path[:get_emoticon] = {}
-  emoticons.each do |
+  emoticons.each do |key, value|
+    
 
 def get_japanese_emoticon
   # code goes here
