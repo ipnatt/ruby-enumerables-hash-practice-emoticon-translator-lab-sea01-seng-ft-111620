@@ -10,13 +10,6 @@ def load_library(path_file)
     new_hash["get_meaning"][value[1]] = key
   end
   new_hash
-  
-
-
-
-
-  
-  
 end
 
 def get_japanese_emoticon
