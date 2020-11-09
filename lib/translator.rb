@@ -20,7 +20,7 @@ end
     
 
 def get_japanese_emoticon(path, emoticon)
-  file_path = load_library
+  file_path = load_library(path_file)
   
 end
 
