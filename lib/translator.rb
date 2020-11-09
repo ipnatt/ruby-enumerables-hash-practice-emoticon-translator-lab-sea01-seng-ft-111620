@@ -7,7 +7,6 @@ emoticons = YAML.load_file("./lib/emoticons.yml")
 
 
 
-
 emoticons
 
   
