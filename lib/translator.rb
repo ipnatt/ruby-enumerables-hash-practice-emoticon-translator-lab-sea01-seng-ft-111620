@@ -7,7 +7,7 @@ def load_library(path_file)
   new_hash = {}
   new_hash[:get_meaning] = {}
   new_hash[:get_emoticon] = {}
-  
+  emoticons.each do 
 
   
 end
