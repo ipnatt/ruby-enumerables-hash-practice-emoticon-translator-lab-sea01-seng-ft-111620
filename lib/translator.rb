@@ -12,7 +12,7 @@ def load_library(path_file)
     english => value[0]
     japanese => value[1]
     
-    file_path[]
+    file_path[:get_meaning][]
     
 
 def get_japanese_emoticon
