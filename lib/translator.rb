@@ -9,6 +9,7 @@ new_hash = hash.new
 new_hash = {"get_meaning" => {}, "get_emoticon" => {}}
 
 
+
 emoticons
 
   
