@@ -23,4 +23,5 @@ end
 
 def get_english_meaning(path_file, emoticon)
   
+  
 end
