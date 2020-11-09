@@ -3,7 +3,7 @@
 def load_library = {
   angel => {
     :english => "O:)",
-    :japanese => 
+    :japanese => "☜(⌒▽⌒)☞"
   }
 }
   
