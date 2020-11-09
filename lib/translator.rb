@@ -14,6 +14,7 @@ def load_library(path_file)
     
     file_path[:get_meaning][japanese] = key
     file_path[:get_emoticon][english] = japanese
+  end
     
 
 def get_japanese_emoticon
