@@ -9,8 +9,8 @@ def load_library(path_file)
   file_path[:get_emoticon] = {}
   
   emoticons.each do |word, pair|
-    japanese => value[1]
-    english => value[0]
+    japanese => pair[1]
+    english => pair[0]
     
     file_path[:get_meaning][japanese] = key
     file_path[:get_emoticon][english] = japanese
