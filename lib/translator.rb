@@ -10,10 +10,11 @@ def load_library(path)
     new_hash["get_emoticon"][value[0]] = emoticons[key][1]
     new_hash["get_emoticon"][value[1]] = key
   end
+  new_hash
   
 
 
-emoticons
+
 
   
   
