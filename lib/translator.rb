@@ -3,10 +3,9 @@ require "pry"
 
 
 def load_library(path)
-emoticons = YAML.load_file("./lib/emoticons.yml")
-
-new_hash = hash.new
-new_hash = {"get_meaning" => {}, "get_emoticon" => {}}
+  emoticons = YAML.load_file("./lib/emoticons.yml")
+  new_hash = hash.new
+  new_hash = {"get_meaning" => {}, "get_emoticon" => {}}
   
 
 
